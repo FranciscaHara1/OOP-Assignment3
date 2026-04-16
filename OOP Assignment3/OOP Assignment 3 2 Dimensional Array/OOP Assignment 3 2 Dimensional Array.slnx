@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OOP Assignment 3 2 Dimensional Array/OOP Assignment 3 2 Dimensional Array.vcxproj" />
+</Solution>
